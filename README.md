@@ -1,6 +1,4 @@
-# trabalho-CG-projecoes
-
-## Projeção em perspectiva e paralela no OpenGL
+# Projeção em perspectiva e paralela no OpenGL
 Este projeto é um exemplo de como usar a biblioteca OpenGL para desenhar um tetraedro em uma janela, usando diferentes tipos de projeção: perspectiva e paralela.
 
 ## Projeção
